@@ -1,5 +1,6 @@
 # Gestion_Ecole
 #Cheikh Tidiane Gueye
+Cheikhtg@gmail.com
 ----------------------------------------------------
 #les fichiers sont disponibles en deux version (txt et word(docx)).
 #"W-" represente les fichiers Word et sont plus conviviaux .
