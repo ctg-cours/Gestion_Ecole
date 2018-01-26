@@ -1,0 +1,21 @@
+Sprint Backlog 
+
+-------------------------------------------------------------------------------------------------
+Modules										Sous-Modules							Statut
+-------------------------------------------------------------------------------------------------
+Gestion des professeurs						Enregistrer un professeur				Non démarré
+											Supprimer un professeur					Non démarré
+											Modifier un professeur					Non démarré
+											Enregistrer une absence					Non démarré
+Gestion des classes							Enregistrer une Classe					Non démarré
+											Supprimer une classe					Non démarré
+											Modifier une classe						Non démarré
+											Affecter une classe à un professeur		Non démarré
+											Désaffecter une classe					Non démarré
+											Enregistrer un cours					Non démarré
+Gestion des élèves							Enregistrer un élève					Non démarré
+											Modifier un élève						Non démarré
+											Enregistrer une absence					Non démarré
+Statistiques								Statistique des classes					Non démarré
+											Statistique des professeurs				Non démarré
+

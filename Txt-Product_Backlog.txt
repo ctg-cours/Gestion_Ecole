@@ -1,0 +1,6 @@
+﻿Product Backlog
+Ce document regroupe les besoins exprime par le Product Owner (mrs Djigo).
+1.	Avoir une vue de l’activité des professeur.
+2.	Pouvoir gerer l’affectation des classe.
+3.	Avoir les statistiques de chaque classe.
+4.	Avoir les informations des eleves.

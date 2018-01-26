@@ -1,0 +1,29 @@
+Spécifications
+
+
+Ce document regroupe les fonctionnalités de l’application de gestion d’école à réaliser pour résoudre le problème du Product Owner (Mrs Djigo).
+Il est constitué des modules dans le tableau suivant : 
+
+
+Modules									Sous-Modules								Commentaires
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gestion des professeurs					Enregistrer un professeur					Gérer les informations relatives au professeur (nom, prénom, adresse, date naissance, …)
+										Supprimer un professeur	
+										Modifier un professeur	
+										Enregistrer une absence						Tracer les absences
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gestion des classes						Enregistrer une Classe						Gestion des classes (professeur, emploi du temp, conduite)
+										Supprimer une classe	
+										Modifier une classe	
+										Affecter une classe à un professeur			Affectation classe-professeur
+										Désaffecter une classe	
+										Enregistrer un cours						Informations relatives au cours (date, heure, classe)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gestion des élèves						Enregistrer un élève	Gérer les informations relatives à l’élève (nom, prénom, adresse, date naissance, …)
+										Supprimer un élève	
+										Modifier un élève	
+										Enregistrer une absence	Tracer les absences
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Statistiques							Statistique des classes	
+										Statistique des professeurs
+										Statistique des élèves
