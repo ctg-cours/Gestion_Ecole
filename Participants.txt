@@ -1,0 +1,4 @@
+﻿Participants
+Product Owner ---> Mrs Mamadou Djigo
+Scrum Master  ---> Cheikh Tidiane Gueye
+Team	      ---> Cheikh Tidiane Gueye
